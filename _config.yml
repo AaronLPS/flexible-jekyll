@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Liping Shi # add your name
-author-img: liping.jpeg # add your photo
+author-img: liping.jpeg  # add your photo
 about-author: Welcome to my site! I'm an entrepreneur and sensor fusion engineer. I write about Machine Learning and Self-Driving technology # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
